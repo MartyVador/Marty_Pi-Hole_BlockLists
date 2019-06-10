@@ -1,6 +1,7 @@
-trackingzen.com
-consting-hancessor.com
-bebi.com
-redir.bebi.com
-exosrv.com
-main.exosrv.com
+0.0.0.0 trackingzen.com
+0.0.0.0 consting-hancessor.com
+0.0.0.0 bebi.com
+0.0.0.0 redir.bebi.com
+0.0.0.0 exosrv.com
+0.0.0.0 main.exosrv.com
+0.0.0.0 mnoa6ez1eq.com
